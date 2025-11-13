@@ -63,5 +63,5 @@ The technologies and tools I work with:
 </div>
 
 <div align="center">
-    <small>Thanks for visiting my profile! / ¡Gracias por visitar mi perfil! :)</small>
+    <small>Thanks for visiting my profile!</small>
 </div>
