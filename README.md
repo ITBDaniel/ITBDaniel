@@ -53,7 +53,9 @@ The technologies and tools I work with:
             <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
         </a>
     </p>
+</div>
 
+<div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ITBDaniel.ITBDaniel&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
 </div>
 
