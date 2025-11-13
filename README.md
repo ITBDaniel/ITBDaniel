@@ -35,15 +35,15 @@ The technologies and tools I work with:
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="ITBDaniel GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="ITBDaniel Top Languages" />
+    <img src="[https://itb-daniel.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1](https://itb-daniel.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)" height="150" alt="ITBDaniel GitHub Stats" />
+    <img src="[https://itb-daniel.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://itb-daniel.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)" height="150" alt="ITBDaniel Top Languages" />
 </div>
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg">
-        <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph-dark.svg)">
+        <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg)">
+        <img alt="Pac-Man Contribution Graph" src="[https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg)">
     </picture>
 </div>
 
