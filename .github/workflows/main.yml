@@ -4,19 +4,26 @@ on:
   schedule:
     # Se ejecuta todos los días a las 00:00 UTC (medianoche)
     - cron: '0 0 * * *' 
+  # Permite ejecutarlo manualmente
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # CRUCIAL: Otorga permiso de escritura para hacer commit
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         
+      # 🚨 CAMBIO AQUÍ: Usando la Action que has encontrado 🚨
       - name: Generate Pac-Man Graph
-        uses: jasur-abd/pacman-contribution-graph-action@v1
+        uses: abozanona/pacman-contribution-graph@v1
         with:
-          # Token por defecto para leer datos y hacer commit
+          # Token por defecto
           github_token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit files
@@ -32,4 +39,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main # <--- REVISA ESTO: ¿Es 'main' o 'master'?
+          # Asegúrate de que esta sea tu rama principal (main o master)
+          branch: main
