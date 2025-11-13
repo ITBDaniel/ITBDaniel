@@ -1,0 +1,35 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 00:00 UTC (medianoche)
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate Pac-Man Graph
+        uses: jasur-abd/pacman-contribution-graph-action@v1
+        with:
+          # Token por defecto para leer datos y hacer commit
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          # Añade los archivos SVG generados a la carpeta output/
+          git add output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
+          # Permite que el commit falle si no hay cambios
+          git commit -m "chore: Update Pac-Man graph" || echo "No changes to commit"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main # <--- REVISA ESTO: ¿Es 'main' o 'master'?
