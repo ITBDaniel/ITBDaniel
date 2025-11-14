@@ -31,7 +31,7 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6" height="150" alt="ITBDaniel GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></a>
+    <a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="ITBDaniel GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></a>
 </div>
 
 <div align="center">
