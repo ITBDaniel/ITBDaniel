@@ -38,14 +38,14 @@
         </picture>
     </a>
     
-    <img src="https://via.placeholder.com/30x1/00000000?text=+" alt="Spacer" height="150" width="30"/>
+<img src="https://via.placeholder.com/30x1/00000000?text=+" alt="Spacer" height="150" width="30"/>
     
-    <a href="https://github.com/ITBDaniel">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" />
-        </picture>
-    </a>
+<a href="https://github.com/ITBDaniel">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" />
+    </picture>
+</a>
 </div>
 
 <div align="center">
