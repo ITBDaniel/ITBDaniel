@@ -55,14 +55,15 @@
     <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico-b371372b8/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" />
     </a>
-    &nbsp;&nbsp;
-    <a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank">
+    &nbsp;&nbsp; <a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
     </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br> <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ITBDaniel.ITBDaniel&left_color=darkred&right_color=goldenrod" alt="Visitor Count" />
-    <br>
+</div>
+
+<br> <div align="center">
     <small>Thanks for visiting my profile!</small>
 </div>
