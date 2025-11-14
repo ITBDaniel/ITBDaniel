@@ -36,7 +36,9 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1">
             <img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="ITBDaniel GitHub Stats" />
         </picture>
-    </a>&nbsp;&nbsp;&nbsp;
+    </a>
+    
+    <img src="https://via.placeholder.com/30x1/00000000?text=+" alt="Spacer" height="150" width="30"/>
     
     <a href="https://github.com/ITBDaniel">
         <picture>
