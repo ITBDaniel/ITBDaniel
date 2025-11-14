@@ -31,7 +31,22 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6" height="150" alt="ITBDaniel GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
+        <img alt="ITBDaniel GitHub Stats" height="150" 
+            src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+    </picture>&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
+        <img alt="ITBDaniel Top Languages" height="150" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+    </picture>
 </div>
 
 <div align="center">
@@ -59,5 +74,3 @@
 <div align="center">
     <small>Thanks for visiting my profile!</small>
 </div>
-
-Tengo este codigo, quiero que cuando el usuario lo vea en color blanco se cambie 
