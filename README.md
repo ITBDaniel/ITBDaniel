@@ -31,7 +31,7 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="ITBDaniel GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></a>
+    <a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6" height="150" alt="ITBDaniel GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></a>
 </div>
 
 <div align="center">
@@ -47,15 +47,15 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-    <p>
-        <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico-b371372b8/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
-    </p>
+    <p>
+        <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico-b371372b8/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+    </p>
 </div>
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ITBDaniel.ITBDaniel&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ITBDaniel.ITBDaniel&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
 </div>
 
 <div align="center">
-    <small>Thanks for visiting my profile!</small>
+    <small>Thanks for visiting my profile!</small>
 </div>
