@@ -22,7 +22,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+    <img src="https://img-shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
@@ -31,17 +31,7 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <a href="https://github.com/ITBDaniel">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1">
-            <img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="ITBDaniel GitHub Stats" />
-        </picture>
-    </a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ITBDaniel">
-    <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" />
-        </picture>
-    </a>
+    <a href="https://github.com/ITBDaniel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"><img src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="ITBDaniel GitHub Stats" /></picture></a><a href="https://github.com/ITBDaniel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true" height="150" alt="ITBDaniel Top Languages" /></picture></a>
 </div>
 
 <div align="center">
