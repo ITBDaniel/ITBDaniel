@@ -5,7 +5,7 @@
 
 ### 📝 About Me
 
-* 🌱 **Currently:** Pursuing a degree in **Web Application Development (DAW)** at ITB (1st year).
+* 🌱 **Currently:** Pursuing a degree in **Web Application Development (DAW)** at ITB (2st year).
 * 💡 **Interests:** Focusing on **Front-end Development** (HTML/CSS/JS) and **Mobile Programming** with Kotlin.
 * 💬 **Ask Me About:** Academic projects, basic programming concepts, or anything related to web development.
 
